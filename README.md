@@ -9,3 +9,7 @@ Hay una segunda parte, dando continuidad a partir de este ejemplo, esta vez abor
 Text analysis and data visualization with R, from WhatsApp conversations, first part. Use of rwhatsapp library. Medium article: https://medium.com/swlh/chat-analysis-on-whatsapp-part-1-text-analysis-and-data-visualization-with-r-3a7e4e8362f2
 
 There is a second part, going deeper with this example, analyzing diversity of vocabulary and analysis of feelings and emotions. Medium article:https://medium.com/analytics-vidhya/chat-analysis-on-whatsapp-part-2-sentiment-analysis-and-data-visualization-with-r-f148592fa1b0
+
+
+#### *Project preview*
+https://www.youtube.com/watch?v=iyEcRLBmI8A
